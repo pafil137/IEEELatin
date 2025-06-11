@@ -22,7 +22,6 @@
 ## 📂 Required Files Databases
 `simulation-runs\`, `aloha-always-on\`, `aloha-rdc\` and `csma\`: These files are required by both `grafico.ipynb` and `confidence_interval.ipynb`. Place them in the same folder as the notebooks. Each file is standalone and does not depend on any additional resources.
 
-Open database also available at: Jonathan Kilner dos Santos Silva, Renato Mariz de Moraes, Paulo Filipe Candido Barbosa, 'Energy Consumption Tmote Sky with Aloha Protocol on Contiki OS', IEEE Dataport, March 4, 2024, doi:10.21227/nrt4-jt03.
 ---
 
 ## 💻 Requirements
