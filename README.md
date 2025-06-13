@@ -31,4 +31,5 @@
 ---
 ## ✉️ Contact
 For questions or replication of results:  
+pfcb@cin.ufpe.br
 paulo.fcbarbosa@upe.br
